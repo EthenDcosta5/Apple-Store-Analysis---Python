@@ -25,7 +25,7 @@ The dataset includes app ratings, purchase amounts, likes on reviews, and more. 
 
 ## Files  
 - `Apple-Store-Reviews.ipynb`: Jupyter notebook containing the analysis code and results.  
-- Dataset: [Apple Store Reviews](https://drive.google.com/file/d/1NfhChTBqxuhjY05zsUV0oQjWb0bO18mD/view?usp=sharing).
+- Dataset: [Apple Store Reviews](https://drive.google.com/file/d/1NfhChTBqxuhjY05zsUV0oQjWb0bO18mD/view?usp=sharing) OR `Apple_Store_Reviews.csv`.
 
 ## How to Use  
 1. Clone the repository:  
